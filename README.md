@@ -1,0 +1,2 @@
+# blogum
+basit blog tasarımı
